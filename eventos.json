@@ -1,14 +1,14 @@
 [
     {
-        "nombre": "Partido de Fútbol - Liga",
-        "fecha": "2023-11-10",
-        "hora": "20:00",
-        "canales": ["Canal 1", "Canal 2"]
+        "name": "Evento de Fútbol - Liga Nacional",
+        "acestream_id": "ace_id_futbol_123",
+        "date": "2024-12-01T20:00:00",
+        "description": "Partido entre los equipos A y B de la Liga Nacional."
     },
     {
-        "nombre": "Concierto de Rock",
-        "fecha": "2023-11-12",
-        "hora": "21:30",
-        "canales": ["Canal A", "Canal B"]
+        "name": "Evento de Baloncesto - Final del Campeonato",
+        "acestream_id": "ace_id_baloncesto_456",
+        "date": "2024-12-05T18:00:00",
+        "description": "Final del Campeonato Nacional de Baloncesto."
     }
 ]

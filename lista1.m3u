@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,DAZN LaLiga 1080 MultiAudio
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1,DAZN F1 1080 MultiAudio
+acestream://a23b7c4d5f67890b12345c6789abcdef01234567
+#EXTINF:-1,Eurosport 1 1080
+acestream://d25e9fbd8cb7d4fcb3fae856ab0d789876543210

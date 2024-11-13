@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Partido de Fútbol - Liga",
+        "fecha": "2023-11-10",
+        "hora": "20:00",
+        "canales": ["M.L. Campeones 1080 Multiaudio", "M.L. Campeones 1080p"]
+    },
+    {
+        "nombre": "Concierto de Rock",
+        "fecha": "2023-11-12",
+        "hora": "21:30",
+        "canales": ["Canal A", "Canal B"]
+    }
+]

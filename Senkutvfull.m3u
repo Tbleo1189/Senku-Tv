@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,La1
-acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 tvg-id="canal1" tvg-name="La.Liga" group-title="Deportes",DAZN LaLiga 1080 MultiAudio
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
 
 #EXTINF:-1,La1 UHD
 acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666

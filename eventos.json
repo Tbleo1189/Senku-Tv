@@ -1,7 +1,7 @@
 [
     {
-        "name": "Evento de Fútbol - Liga Nacional",
-        "acestream_id": "ace_id_futbol_123",
+        "name": "Ecuado vs Bolivia",
+        "acestream_id": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
         "date": "2024-12-01T20:00:00",
         "description": "Partido entre los equipos A y B de la Liga Nacional."
     },

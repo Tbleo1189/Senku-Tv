@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Canal 1" group-title="movistar", M.L. Campeones 1080 Multiaudio
+#EXTINF:-1 tvg-name="M.L. Campeones 1080 Multiaudio" group-title="movistar", Canal1
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 tvg-name="Canal 2" group-title="movistar", Canal 2
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9

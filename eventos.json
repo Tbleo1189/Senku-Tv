@@ -58,5 +58,17 @@
         "acestream_id": "ec29289b0b14756e686c03a501bae1efa05be70c",
         "start_time": "24 Nov 2024 - 21:00",
         "description": "LaLiga - Jornada 14"
+    },
+    {
+        "name": "Fórmula 1 - Clasificación GP Las Vegas",
+        "acestream_id": "d6281d4e6310269b416180442a470d23a4a99dc9",
+        "start_time": "23 Nov 2024 - 07:00",
+        "description": "Fórmula 1 - Gran Premio de Las Vegas"
+    },
+    {
+        "name": "Fórmula 1 - Carrera GP Las Vegas",
+        "acestream_id": "d6281d4e6310269b416180442a470d23a4a99dc9",
+        "start_time": "24 Nov 2024 - 07:00",
+        "description": "Fórmula 1 - Gran Premio de Las Vegas"
     }
 ]

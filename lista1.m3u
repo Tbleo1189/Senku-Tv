@@ -182,8 +182,11 @@ acestream://d6281d4e6310269b416180442a470d23a4a99dc9
 #EXTINF:-1, DAZN F1 1080 (Fórmula 1)
 acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
 
+#EXTINF:-1, DAZN F1 1080 (Fórmula 1) 
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa 
+
 #EXTINF:-1, DAZN F1 720 (Fórmula 1)
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
 
 #EXTINF:-1, EuroSport 1 1080
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580

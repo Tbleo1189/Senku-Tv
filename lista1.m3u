@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,EuroSport 1 1080
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1,M. LaLiga 1
+acestream://d15a0eaf825b5f8f94259d5209688a7e97e6acde
 
-#EXTINF:-1,EuroSport 2 1080
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1,M. LaLiga 
+acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 
 #EXTINF:-1,Copa 1080
 acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4

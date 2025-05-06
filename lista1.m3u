@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1,M. LaLiga UHD
+#EXTINF:-1,M. LaLiga 4k
 acestream://d15a0eaf825b5f8f94259d5209688a7e97e6acde
 
-#EXTINF:-1,M. LaLiga UHD 2
+#EXTINF:-1,M. LaLiga 4k 2
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 
-#EXTINF:-1,LaLiga Bar nuevo
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1,Liga de Campeones 4k
+acestream://7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13
 
 #EXTINF:-1, Liga Bar 1080P
 acestream://94d34491106e00394835c8cb68aa94481339b53f
